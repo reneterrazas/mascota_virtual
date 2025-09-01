@@ -1,0 +1,12 @@
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\bin\Debug\net9.0\MascotaVirtualBiblioteca.deps.json
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\bin\Debug\net9.0\MascotaVirtualBiblioteca.dll
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\bin\Debug\net9.0\MascotaVirtualBiblioteca.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.sourcelink.json
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.dll
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\refint\MascotaVirtualBiblioteca.dll
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\MascotaVirtualBiblioteca.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualBiblioteca\obj\Debug\net9.0\ref\MascotaVirtualBiblioteca.dll
