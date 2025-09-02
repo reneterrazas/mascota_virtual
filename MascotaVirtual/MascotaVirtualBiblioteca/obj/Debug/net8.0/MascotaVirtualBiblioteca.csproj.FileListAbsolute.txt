@@ -1,0 +1,12 @@
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/bin/Debug/net8.0/MascotaVirtualBiblioteca.deps.json
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/bin/Debug/net8.0/MascotaVirtualBiblioteca.dll
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/bin/Debug/net8.0/MascotaVirtualBiblioteca.pdb
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.AssemblyInfoInputs.cache
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.AssemblyInfo.cs
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.csproj.CoreCompileInputs.cache
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.sourcelink.json
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.dll
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/refint/MascotaVirtualBiblioteca.dll
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/MascotaVirtualBiblioteca.pdb
+/mnt/Datos/Repos/mascota_virtual/MascotaVirtual/MascotaVirtualBiblioteca/obj/Debug/net8.0/ref/MascotaVirtualBiblioteca.dll

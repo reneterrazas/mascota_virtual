@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MascotaVirtualConsola/1.0.0": {
+        "dependencies": {
+          "MascotaVirtualBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "MascotaVirtualConsola.dll": {}
+        }
+      },
+      "MascotaVirtualBiblioteca/1.0.0": {
+        "runtime": {
+          "MascotaVirtualBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MascotaVirtualConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MascotaVirtualBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
