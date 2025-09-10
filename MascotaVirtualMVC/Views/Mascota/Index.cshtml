@@ -1,0 +1,15 @@
+﻿@model MascotaVirtualBiblioteca.Mascota
+
+@{
+    ViewData["Title"] = "Mi Mascota Virtual 🐾";
+}
+
+<h1>@Model.Nombre</h1>
+<p><strong>Estado:</strong> @Model.Estado</p>
+<p><strong>Felicidad:</strong> @Model.Felicidad</p>
+
+<div style="margin-top:20px;">
+    <a asp-action="Jugar" class="btn btn-primary">🎾 Jugar</a>
+    <a asp-action="Comer" class="btn btn-success">🍗 Comer</a>
+    <a asp-action="PasarTiempo" class="btn btn-warning">⏳ Pasar Tiempo</a>
+</div>
