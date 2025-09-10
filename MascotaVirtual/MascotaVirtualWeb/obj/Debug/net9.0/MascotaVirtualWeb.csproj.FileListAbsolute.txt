@@ -28,6 +28,6 @@ C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtu
 C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\MascotaVirtualWeb.pdb
 C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\MascotaVirtualWeb.genruntimeconfig.cache
 C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\ref\MascotaVirtualWeb.dll
-C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\compressed\2cqi6xfonr-222cigm9ce.gz
 C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\compressed\027z2sxmml-htu1ufdtm3.gz
-C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\compressed\mcfbuzef8u-dpneqhbccr.gz
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\compressed\2cqi6xfonr-l998x1abw3.gz
+C:\Users\Lab15-PC01\Documents\GitHub\mascota_virtual\MascotaVirtual\MascotaVirtualWeb\obj\Debug\net9.0\compressed\mcfbuzef8u-58cam0nipn.gz

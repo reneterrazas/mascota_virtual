@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MascotaVirtualConsola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47868f2fdfda04bc1f1233d6a32b64e0df84812e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019dee77bb7cbf80d841c322f12e0390c51ee69b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MascotaVirtualConsola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MascotaVirtualConsola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

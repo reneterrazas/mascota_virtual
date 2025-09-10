@@ -1,10 +1,66 @@
+/* Fondo general con un gradiente */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  margin: 40px;
-  background: #f8fafc;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #89f7fe, #66a6ff);
   color: #111827;
 }
-h1 { color: #0b72d1; }
-button { margin: 8px; padding: 10px 16px; border-radius: 8px; cursor: pointer; }
-#estado { font-weight: 700; margin: 16px 0; }
+
+/* Caja que contiene la mascota */
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  max-width: 400px;
+  width: 100%;
+}
+
+/* Título */
+h1 {
+  color: #0b72d1;
+  margin-bottom: 20px;
+}
+
+/* Estado de la mascota */
+#estado {
+  font-weight: 700;
+  margin: 16px 0;
+  font-size: 18px;
+}
+
+/* Botones */
+button {
+  margin: 8px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: transform 0.2s, background 0.3s;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+/* Colores distintos para cada acción */
+#btnJugar {
+  background: #4caf50;
+  color: white;
+}
+#btnComer {
+  background: #ff9800;
+  color: white;
+}
+#btnIgnorar {
+  background: #f44336;
+  color: white;
+}

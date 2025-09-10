@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GqgPreYw3dg8sF8Hvo7Tdoor0tOsm6yVqdOjR8eeMcg=",
+  "Hash": "Mqr9co7VTmUF1EJfbkxFNf6PtRZyreUE3/YPoM5l8t8=",
   "Source": "MascotaVirtualWeb",
   "BasePath": "_content/MascotaVirtualWeb",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-222cigm9ce.gz",
+      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-l998x1abw3.gz",
       "SourceId": "MascotaVirtualWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MascotaVirtualWeb",
-      "RelativePath": "index#[.{fingerprint=222cigm9ce}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=l998x1abw3}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nzxqhbd55u",
-      "Integrity": "k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c=",
+      "Fingerprint": "vfig6rtcjv",
+      "Integrity": "pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-dpneqhbccr.gz",
+      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-58cam0nipn.gz",
       "SourceId": "MascotaVirtualWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MascotaVirtualWeb",
-      "RelativePath": "style#[.{fingerprint=dpneqhbccr}]?.css.gz",
+      "RelativePath": "style#[.{fingerprint=58cam0nipn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uy439x5koz",
-      "Integrity": "GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k=",
+      "Fingerprint": "n2pkyukust",
+      "Integrity": "7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\style.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "222cigm9ce",
-      "Integrity": "ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk=",
+      "Fingerprint": "l998x1abw3",
+      "Integrity": "F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dpneqhbccr",
-      "Integrity": "f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo=",
+      "Fingerprint": "58cam0nipn",
+      "Integrity": "ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\style.css"
@@ -145,13 +145,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "index.222cigm9ce.html",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-222cigm9ce.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-l998x1abw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003067484663"
+          "Quality": "0.002881844380"
         }
       ],
       "ResponseHeaders": [
@@ -161,19 +161,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "325"
+          "Value": "346"
         },
         {
           "Name": "ETag",
-          "Value": "\"k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c=\""
+          "Value": "\"pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -189,26 +189,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk=\""
+          "Value": "W/\"F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "222cigm9ce"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk="
+          "Value": "sha256-F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E="
         }
       ]
     },
     {
-      "Route": "index.222cigm9ce.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -218,7 +210,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "530"
+          "Value": "583"
         },
         {
           "Name": "Content-Type",
@@ -226,11 +218,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk=\""
+          "Value": "\"F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-l998x1abw3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA="
+        }
+      ]
+    },
+    {
+      "Route": "index.l998x1abw3.html",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-l998x1abw3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002881844380"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l998x1abw3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E="
+        }
+      ]
+    },
+    {
+      "Route": "index.l998x1abw3.html",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -240,7 +377,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "222cigm9ce"
+          "Value": "l998x1abw3"
         },
         {
           "Name": "label",
@@ -248,13 +385,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk="
+          "Value": "sha256-F1oSp+LFZxXX0O7DExUgPs/N4PeBREdomj/sVFUYL3E="
         }
       ]
     },
     {
-      "Route": "index.222cigm9ce.html.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-222cigm9ce.gz",
+      "Route": "index.l998x1abw3.html.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-l998x1abw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,7 +400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "325"
+          "Value": "346"
         },
         {
           "Name": "Content-Type",
@@ -271,11 +408,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c=\""
+          "Value": "\"pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,7 +430,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "222cigm9ce"
+          "Value": "l998x1abw3"
         },
         {
           "Name": "label",
@@ -301,144 +438,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-222cigm9ce.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003067484663"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "325"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ljhQL0gBdorMN1H0WAOdj8VlwJ3qhArmQxvoamK+obk="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\2cqi6xfonr-222cigm9ce.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "325"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-k/uDAccccyF1XOS0nV80Kk2PTqiojkN7FQ1EExXOF6c="
+          "Value": "sha256-pVxcepopZLPbqUcS2UMANxM386Nn3lYOIWH5WOKMpEA="
         }
       ]
     },
@@ -467,7 +467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -528,7 +528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -573,7 +573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -628,7 +628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -681,7 +681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -718,7 +718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:32:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -741,13 +741,13 @@
       ]
     },
     {
-      "Route": "style.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-dpneqhbccr.gz",
+      "Route": "style.58cam0nipn.css",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-58cam0nipn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004694835681"
+          "Quality": "0.001633986928"
         }
       ],
       "ResponseHeaders": [
@@ -757,19 +757,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "212"
+          "Value": "611"
         },
         {
           "Name": "ETag",
-          "Value": "\"GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k=\""
+          "Value": "\"7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -785,18 +785,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo=\""
+          "Value": "W/\"ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "58cam0nipn"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo="
+          "Value": "sha256-ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A="
         }
       ]
     },
     {
-      "Route": "style.css",
+      "Route": "style.58cam0nipn.css",
       "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -806,7 +814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280"
+          "Value": "1200"
         },
         {
           "Name": "Content-Type",
@@ -814,121 +822,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo=\""
+          "Value": "\"ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo="
-        }
-      ]
-    },
-    {
-      "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-dpneqhbccr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "212"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k="
-        }
-      ]
-    },
-    {
-      "Route": "style.dpneqhbccr.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-dpneqhbccr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004694835681"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "212"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpneqhbccr"
+          "Value": "58cam0nipn"
         },
         {
           "Name": "label",
@@ -936,13 +844,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo="
+          "Value": "sha256-ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A="
         }
       ]
     },
     {
-      "Route": "style.dpneqhbccr.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\style.css",
+      "Route": "style.58cam0nipn.css.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-58cam0nipn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -951,7 +859,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280"
+          "Value": "611"
         },
         {
           "Name": "Content-Type",
@@ -959,56 +867,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo=\""
+          "Value": "\"7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dpneqhbccr"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-f6K9oO1l6y6TunA0wU23Ng9ivafGkZoM+oCUECImVeo="
-        }
-      ]
-    },
-    {
-      "Route": "style.dpneqhbccr.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-dpneqhbccr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "212"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 10 Sep 2025 17:57:36 GMT"
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1026,7 +889,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpneqhbccr"
+          "Value": "58cam0nipn"
         },
         {
           "Name": "label",
@@ -1034,7 +897,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GqdL0LenQhm2PLIsFKjMCGtEVl78k9KqNafljq7mC5k="
+          "Value": "sha256-7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-58cam0nipn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001633986928"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "611"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZSLbqMGZV7ciUasxhgyfjRDy7KOY+JeG2WyOOV0mn9A="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\mascota_virtual\\MascotaVirtual\\MascotaVirtualWeb\\obj\\Debug\\net9.0\\compressed\\mcfbuzef8u-58cam0nipn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 18:36:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7xUOVKARphx0Pr3N+Liv6esazRcbsRKGNV+tNbClWgQ="
         }
       ]
     }
